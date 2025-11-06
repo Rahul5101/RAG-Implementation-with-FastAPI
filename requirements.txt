@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+SQLModel
+python-dotenv
+PyMuPDF
+sentence-transformers
+faiss-cpu
+numpy
+typing_extensions
+requests
+sse-starlette
